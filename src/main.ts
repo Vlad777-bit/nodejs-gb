@@ -1,3 +1,4 @@
-export const sum = (a: number, b: number): number => {
-	return a + b;
-};
+import { PrimeNumber } from './lesson-1/PrimeNumber';
+
+const start = new PrimeNumber();
+start.init();
