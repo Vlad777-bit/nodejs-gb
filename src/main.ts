@@ -1,3 +1,3 @@
-import { lesson3 } from './lesson-3/index';
+import { lesson4 } from './lesson-4';
 
-lesson3();
+lesson4();
